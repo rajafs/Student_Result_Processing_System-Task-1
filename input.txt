@@ -1,0 +1,21 @@
+10
+25mcmt21 Esaiarasi S
+53 50 62 69 74
+25mcmt22 H Lavanya
+52 59 47 56 42
+25mcmt23 Harshita Nallana
+59 63 64 52 72
+25mcmt24 Anish Prajapath
+60 64 69 59 70
+25mcmt25 Kishore karthikeya
+62 58 64 67 65
+25mcmt26 Snehitha Penchili
+58 69 62 70 69
+25mcmt27 Raja Babu
+60 65 73 66 66
+25mcmt28 Nagi Reddy S R
+59 62 68 63 68
+25mcmt29 Sai Mahidhar M
+64 66 74 67 64
+25mcmt30 K Rupali Sandip
+62 58 63 65 67
