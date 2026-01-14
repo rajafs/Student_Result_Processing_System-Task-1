@@ -13,6 +13,7 @@ struct Student {
     float cgpa;
     char grade[3];
 };
+
 int validName(char name[]);
 void computeResult(struct Student *s);
 void assignGrade(float p, char grade[]);
